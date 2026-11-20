@@ -64,6 +64,6 @@
   "description": "Offline-first PWA for real-time Indian air quality, household health guidance and community hazard mapping.",
   "license": "MIT",
   "engines": {
-    "node": ">=20"
+    "node": ">=24.12.0"
   }
 }
