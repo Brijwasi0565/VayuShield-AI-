@@ -1,0 +1,7 @@
+dist
+dev-dist
+node_modules
+coverage
+bun.lock
+package-lock.json
+.data

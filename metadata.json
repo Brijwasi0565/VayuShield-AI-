@@ -1,0 +1,6 @@
+{
+  "name": "VayuShield AI",
+  "description": "Real-time Indian air quality monitoring, deterministic household health guidance, community hazard mapping, 3D atmospheric simulation, and offline-first PWA.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

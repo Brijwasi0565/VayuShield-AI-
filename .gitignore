@@ -1,0 +1,33 @@
+# Dependencies and build output
+node_modules/
+build/
+dist/
+dev-dist/
+coverage/
+
+# Secrets: never commit these
+.env
+.env.*
+!.env.example
+firebase-applet-config.json
+firebase-applet-config*.json
+service-account*.json
+*-service-account*.json
+*.pem
+*.key
+*.p12
+*.keystore
+.firebase/
+.firebaserc
+
+# Local data and tool folders
+.data/
+.aistudio/
+.playwright-cli/
+
+# OS / editor / logs
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
